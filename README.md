@@ -1,4 +1,4 @@
-### Hi there, It’s Vuzire
+### Hi there, It’s Zathiel
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/C_Zathiel?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Zathiel_twitch)
 
