@@ -1,6 +1,6 @@
 ### Hi there, It’s Zathiel
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/C_Zathiel?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Zathiel_twitch)
+[![Twitter Follow](https://img.shields.io/twitter/follow/C_Zathiel_twitch?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Zathiel_twitch)
 
 ## I'm a Network and CyberSecurity specialist !
 
